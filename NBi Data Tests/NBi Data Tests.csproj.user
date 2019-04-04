@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\marfra\source\repos\ClassLibrary1\packages\NBi.VisualStudio.1.19.0.1\tools\..\..\NUnit.Runners.Net4.2.6.4\tools\NUnit.exe</StartProgram>
-    <StartArguments>TestSuite.nunit /runselected</StartArguments>
-    <StartWorkingDirectory>.\</StartWorkingDirectory>
-  </PropertyGroup>
-</Project>
