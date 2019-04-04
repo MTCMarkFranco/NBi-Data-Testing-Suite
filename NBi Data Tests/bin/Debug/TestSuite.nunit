@@ -1,0 +1,9 @@
+﻿<NUnitProject>
+  <Settings activeconfig="local" processModel="Default" domainUsage="Default" />
+  <Config name="local" binpathtype="manual" binpath="." appbase="." configfile="DataTests\local\TestSuite.local.config">
+    <assembly path="NBi.NUnit.Runtime.dll" />
+  </Config>
+  <Config name="cloud" binpathtype="manual" binpath="." appbase="." configfile="DataTests\cloud\TestSuite.cloud.config">
+    <assembly path="NBi.NUnit.Runtime.dll" />
+  </Config>
+</NUnitProject>

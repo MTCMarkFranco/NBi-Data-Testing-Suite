@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\marfra\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\TestSuite.nunit" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-04-04" time="11:11:26">
+  <environment nunit-version="2.6.4.14350" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\marfra\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug" machine-name="LAPTOP-NNHA8LK8" user="marfra" user-domain="NORTHAMERICA" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Users\marfra\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\TestSuite.nunit" executed="True" result="Success" success="True" time="2.458" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\marfra\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\.\NBi.NUnit.Runtime.dll" executed="True" result="Success" success="True" time="2.443" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="NBi" executed="True" result="Success" success="True" time="2.442" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="NUnit" executed="True" result="Success" success="True" time="2.442" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Runtime" executed="True" result="Success" success="True" time="2.442" asserts="0">
+                    <results>
+                      <test-suite type="TestFixture" name="TestSuite" executed="True" result="Success" success="True" time="2.441" asserts="0">
+                        <results>
+                          <test-suite type="ParameterizedTest" name="ExecuteTestCases" executed="True" result="Success" success="True" time="2.433" asserts="0">
+                            <results>
+                              <test-case name="NBi.NUnit.Runtime.TestSuite.My first test" description="" executed="True" result="Success" success="True" time="2.422" asserts="1">
+                                <categories>
+                                  <category name="Execution" />
+                                </categories>
+                              </test-case>
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
